@@ -1,0 +1,4 @@
+Ambulance
+Admit Facility 
+Canteen
+Emergency
